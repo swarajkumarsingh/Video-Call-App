@@ -31,9 +31,8 @@ lib
 ## Screenshots
 <p align="center">
   <img src="https://res.cloudinary.com/dcz4ttqrs/image/upload/v1675498726/Screenshot_4_dlx6c6.png" height="700" width="350" alt="accessibility text">
-</p>
-<p align="center">
-  <img src="https://res.cloudinary.com/dcz4ttqrs/image/upload/v1675498796/Screenshot_5_v65j7z.png" height="700" width="350" alt="accessibility text">
+
+   <img src="https://res.cloudinary.com/dcz4ttqrs/image/upload/v1675498796/Screenshot_5_v65j7z.png" height="700" width="350" alt="accessibility text">
 </p>
 
 
